@@ -1,0 +1,25 @@
+.cardConteiner {
+    overflow: hidden;
+    border: 1px solid rgb(103, 103, 103);
+    border-radius: 10px;
+    background-color: lightgray;
+    box-shadow: 4px 4px 8px rgba(119, 119, 119, 0.3);
+}
+
+.Buttons {
+    display: flex;
+    margin-right: 3.7rem;
+    margin-left: 3.7rem;
+    margin-bottom: 1rem;
+}
+.deleteButton {
+    width: 100px;
+}
+.editButton {
+    width: 100px
+}
+
+.cardHeader {
+    bottom: 0;
+}
+
